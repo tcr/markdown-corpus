@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/logo.png" alt="awesome cli apps">
+	<img width="763" src="https://cdn.jsdelivr.net/gh/aharris88/awesome-cli-apps@master/media/logo.png" alt="awesome cli apps">
 	<br>
 	<br>
 </h1>

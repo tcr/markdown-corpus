@@ -399,5 +399,5 @@ Contributions are most welcome, please adhere to the [contribution guidelines](C
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
-[OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
-[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
+[OSS Icon]: https://cdn.jsdelivr.net/gh/Awesome-Windows/Awesome@master/media/OSS.svg
+[Freeware Icon]: https://cdn.jsdelivr.net/gh/Awesome-Windows/Awesome@master/media/free.svg

@@ -4,7 +4,7 @@
   </p>
   <h3 align="center"><a href="http://awesome-ruby.com">Awesome Ruby</a></h3>
   <p align="center">
-    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
+    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
   </p>
   <hr>
 </div>

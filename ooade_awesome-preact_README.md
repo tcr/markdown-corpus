@@ -1,6 +1,6 @@
 # Awesome Preact [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://rawgit.com/ooade/awesome-preact/master/preact-logo.svg" align="right" width="100">](https://preactjs.com)
+[<img src="https://cdn.jsdelivr.net/gh/ooade/awesome-preact@master/preact-logo.svg" align="right" width="100">](https://preactjs.com)
 
 > A curated list of amazingly awesome things regarding [Preact](https://github.com/developit/preact) ecosystem :star2:
 

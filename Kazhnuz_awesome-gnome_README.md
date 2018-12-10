@@ -1,6 +1,6 @@
 # Awesome GNOME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-logo.svg" align="right" width="150">](http://www.gnome.org)
+[<img src="https://cdn.jsdelivr.net/gh/kazhnuz/awesome-gnome@master/images/gnome-logo.svg" align="right" width="150">](http://www.gnome.org)
 
 > A curated list of _awesome_ apps, extensions, modules, themes and tools for the GNOME Desktop Environment.
 
@@ -269,4 +269,4 @@
 - [GJS Documentation](http://devdocs.baznga.org/) - Documentation for the JavaScript GTK bindings.
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
 
-[GNOME Core]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg
+[GNOME Core]: https://cdn.jsdelivr.net/gh/kazhnuz/awesome-gnome@master/images/gnome-icon-symbolic.svg
