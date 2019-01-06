@@ -306,5 +306,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 [Back to top](#table-of-contents)
 
-[twittericon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg
-[githubicon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg
+[twittericon]: https://cdn.jsdelivr.net/gh/d3viant0ne/awesome-webpack@master/media/twitter-square.svg
+[githubicon]: https://cdn.jsdelivr.net/gh/d3viant0ne/awesome-webpack@master/media/github-square.svg

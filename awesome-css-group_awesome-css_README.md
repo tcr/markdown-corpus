@@ -1,5 +1,5 @@
 [awesome-link]:  https://github.com/sindresorhus/awesome
-[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-badge]: https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis-link]:   https://travis-ci.org/awesome-css-group/awesome-css
 [travis-badge]:  https://travis-ci.org/awesome-css-group/awesome-css.svg?branch=master
 

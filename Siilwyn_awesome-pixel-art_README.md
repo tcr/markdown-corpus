@@ -1,6 +1,6 @@
 # Awesome Pixel Art [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://cdn.rawgit.com/Siilwyn/awesome-pixel-art/1d81c507/sheep-timelapse.gif" align="right" width="118">](https://twitter.com/mnrART)
+[<img src="https://cdn.jsdelivr.net/gh/Siilwyn/awesome-pixel-art@1d81c507/sheep-timelapse.gif" align="right" width="118">](https://twitter.com/mnrART)
 
 Pixel-level digital art, every placed pixel has importance in creating the envisioned graphic.
 

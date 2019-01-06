@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="594" src="https://cdn.rawgit.com/derimagia/awesome-alfred-workflows/master/media/header.gif" alt="awesome-alfred-workflows">
+	<img width="594" src="https://cdn.jsdelivr.net/gh/derimagia/awesome-alfred-workflows@master/media/header.gif" alt="awesome-alfred-workflows">
 	<br>
 </h1>
 

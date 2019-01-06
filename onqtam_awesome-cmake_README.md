@@ -1,6 +1,6 @@
 # Awesome CMake [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://rawgit.com/onqtam/awesome-cmake/master/cmake-logo.svg" align="right" width="100">](https://cmake.org/)
+[<img src="https://cdn.jsdelivr.net/gh/onqtam/awesome-cmake@master/cmake-logo.svg" align="right" width="100">](https://cmake.org/)
 
 > A curated list of awesome [CMake](https://cmake.org/) scripts, modules, examples and others
 

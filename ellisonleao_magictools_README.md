@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img width="900" src="https://cdn.rawgit.com/ellisonleao/magictools/7d8012bc/magicbg.jpg" alt="logo"/>
+    <img width="900" src="https://cdn.jsdelivr.net/gh/ellisonleao/magictools@7d8012bc/magicbg.jpg" alt="logo"/>
 </h1>
 <hr/>
 
 <p align="center">
-    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
+    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
     <a href="https://travis-ci.org/ellisonleao/magictools"><img src="https://travis-ci.org/ellisonleao/magictools.svg?branch=master" alt="build"/></a>
     <a href="https://github.com/ellisonleao/magictools/blob/master/README_ch.md"><img src="https://img.shields.io/badge/translation-Chinese-lightgrey.svg" alt="Chinese translation"/></a>
 </p>

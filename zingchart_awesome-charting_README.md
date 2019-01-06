@@ -1,5 +1,5 @@
 
-<img src="https://cdn.rawgit.com/zingchart/awesome-charting/media/assets/awesome-charting.svg" alt="awesome">
+<img src="https://cdn.jsdelivr.net/gh/zingchart/awesome-charting@media/assets/awesome-charting.svg" alt="awesome">
 
 A curated list of chart and dataviz resources that developers may find useful. Focused on relevant and currently active JavaScript charting libraries for different use cases. Ordered alphabetically in each category.
 
